@@ -1,0 +1,8 @@
+{
+  "name": "Dantalaya Dental Studio & Path Lab",
+  "description": "Premium 24-hour dental care and pathology lab in Panipat, led by Dr. Lakshit Gupta. Luxury clinical excellence with advanced hygiene standards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
